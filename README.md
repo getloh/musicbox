@@ -25,7 +25,7 @@ None of the CSS is my doing
 
 
 ## Screenshots
-(https://meng.s-ul.eu/CkgF8zhe)
+![https://meng.s-ul.eu/CkgF8zhe]
 
 ## Usage
 *This webapp will not work if you download it, as it is missing the API key.*
